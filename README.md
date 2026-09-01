@@ -315,4 +315,4 @@ Proje bir yol haritasıyla ilerliyor. Maddeler önceliğe göre sıralanmıştı
 
 ## Lisans
 
-Belirtilmemiş.
+MIT — bkz. [LICENSE](LICENSE). Telif ekip üyelerine aittir.
