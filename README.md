@@ -41,6 +41,8 @@ Bu bir **ekip projesidir**, Işık Üniversitesi kapsamında geliştirilmiştir.
 | [Tolga Olguner](https://github.com/tolguner) | Proje yönetimi ve koordinasyon |
 | [Oğulcan Kacar](https://github.com/OgulcanKacar1) | Baş geliştirici — backend mimarisi ve arayüzün büyük bölümü |
 | [Bekir Kadir Demiraslan](https://github.com/bekir331) | Geliştirici — backend ve frontend katkıları |
+| Faruk Kılıç | Ekip üyesi |
+| Zübeyde Belma Karataş | Ekip üyesi |
 
 ---
 
