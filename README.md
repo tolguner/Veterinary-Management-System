@@ -38,11 +38,11 @@ Bu bir **ekip projesidir**, Işık Üniversitesi kapsamında geliştirilmiştir.
 
 | Katkıda bulunan | Rol |
 |---|---|
-| [Tolga Olguner](https://github.com/tolguner) | Proje yönetimi ve koordinasyon |
-| [Oğulcan Kacar](https://github.com/OgulcanKacar1) | Baş geliştirici — backend mimarisi ve arayüzün büyük bölümü |
-| [Bekir Kadir Demiraslan](https://github.com/bekir331) | Geliştirici — backend ve frontend katkıları |
-| Faruk Kılıç | Geliştirici |
-| Zübeyde Belma Karataş | Geliştirici |
+| [Tolga Olguner](https://github.com/tolguner) | Proje Yürütücüsü |
+| [Oğulcan Kacar](https://github.com/OgulcanKacar1) | Baş Yazılım Geliştirici — backend mimarisi ve arayüzün büyük bölümü |
+| [Bekir Kadir Demiraslan](https://github.com/bekir331) | Yazılım Geliştirici — backend ve frontend katkıları |
+| Faruk Kılıç | Yazılım Geliştirici |
+| Zübeyde Belma Karataş | Yazılım Geliştirici |
 
 ---
 
